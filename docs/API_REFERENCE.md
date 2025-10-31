@@ -1,0 +1,3 @@
+# API Reference
+
+This document provides a detailed reference for the public API of the Models-of-Galaxies-and-Clusters project. It covers core classes and functions in the `models` package, used for generating and analyzing galaxy and cluster models. All units follow Astropy conventions (e.g., kpc for lengths, M_⊙ for masses). [web:110] For full implementation details, see the source code in `models/`. [web:6]

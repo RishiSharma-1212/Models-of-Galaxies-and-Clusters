@@ -1,0 +1,7 @@
+# Placeholder to track the output/ directory in Git.
+# This folder stores runtime-generated files such as:
+# - Simulation initial conditions (e.g., cluster_ics.h5).
+# - Visualization plots (e.g., density_profiles.png).
+# - Analysis results (e.g., mass_scaling.csv).
+# Do not commit large outputs; use .gitignore for exclusions.
+# Git ignores empty directories, hence this file.

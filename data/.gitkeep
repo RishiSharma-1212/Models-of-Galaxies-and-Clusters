@@ -1,0 +1,6 @@
+# Placeholder file to ensure the data/ directory is tracked by Git.
+# This folder will contain:
+# - HDF5 files for simulation initial conditions (e.g., cluster_particles.h5).
+# - Cosmology parameter files (e.g., planck18.yaml).
+# - Sample datasets from surveys like DES or SDSS for validation.
+# Do not remove; Git ignores empty directories.
